@@ -1,0 +1,26 @@
+Admin
+-------------------
+Login  (username:admin,password:admin)
+
+Add Employee
+View Employees
+Delete Employee
+
+Logout
+
+
+Office Employee
+----------------------
+Login
+
+Add Item
+View Items
+Delete Items
+
+Add Customer
+View Customers
+Update Customer timings
+Delete Customer
+View Pending Customers
+
+Logout
